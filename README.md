@@ -1,4 +1,4 @@
-README
+Authentication System using CoAP protocol
 ================
 Andres Fernando Garcia
 6/21/2021
